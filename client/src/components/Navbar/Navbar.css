@@ -1,0 +1,11 @@
+.custom-dropdown .dropdown-menu {
+  margin-left: -7rem;
+  margin-right: 0;
+}
+
+@media only screen and (max-width: 992px) {
+  .custom-dropdown .dropdown-menu {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
